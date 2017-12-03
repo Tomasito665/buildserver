@@ -60,10 +60,11 @@ qt4fix.rej.txt
 /build/taglib-1.10/Win32/
 /build/chromaprint-1.3.1/x64/
 /build/chromaprint-1.3.1/Win32/
+/build/pa_stable_v190600_20161030/build/cmake/
 
 # Exclude external packages that have to be obtained from other sources
 /build/qt-everywhere-opensource-src-4.8.7/
-/build/pa_stable_v19_20140130/src/hostapi/asio/ASIOSDK
+/build/ASIOSDK2.3/
 
 # Visual C++ cache files and other generic files
 ipch/
