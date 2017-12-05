@@ -30,9 +30,11 @@ ipch/
 /build/**/vc14/x64/
 /build/**/VS2015/x64/
 /build/**/VS2015/x86/
-/build/**/protobuf-2.6.1/vsprojects/include/
-/build/**/protobuf-2.6.1/vsprojects/x64/
-/build/**/protobuf-2.6.1/vsprojects/Win32/
+/build/protobuf-2.6.1/vsprojects/include/
+/build/protobuf-2.6.1/vsprojects/x64/
+/build/protobuf-2.6.1/vsprojects/Win32/
+/build/protobuf-2.6.1/vsprojects/libprotobuf-lite-dynamic.vcxproj
+/build/protobuf-2.6.1/vsprojects/protobuf-patched.sln
 /build/**/CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
